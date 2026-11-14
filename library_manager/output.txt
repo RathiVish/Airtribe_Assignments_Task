@@ -1,0 +1,8 @@
+Alice borrowed: Book: Python 101 by A. Rao (ID 1)
+Could not borrow: 'Python 101' is not available
+Could not borrow: Bob has reached the limit of 1 items
+Could not return: 'RRR' was not borrowed by Alice
+Book: Python 101 by A. Rao (ID 1) -> late fee for 3 days: Rs 6
+Magazine: Sports Center by Some Sports Man (ID 2) -> late fee for 3 days: Rs 3
+DVD: RRR by S.S.R (ID 3) -> late fee for 3 days: Rs 15
+Total items created: 3
